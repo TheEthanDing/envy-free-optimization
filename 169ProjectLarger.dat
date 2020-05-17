@@ -1,0 +1,11 @@
+set ITEMS := Motorcycle Bicycle Dog Painting Television;
+set PEOPLE := Alice Bob Carol David;
+
+param values: 
+Motorcycle Bicycle Dog Painting Television := 
+Alice 3000 2000 0 300 700
+Bob 1000 2000 1000 600 300
+Carol 1500 500 1000 1000 300
+David 500 1500 800 2000 500;
+
+param cash := 200;

@@ -1,0 +1,8 @@
+set ITEMS := car painting;
+set PEOPLE := Alice Bob;
+
+param values: car painting := 
+Alice 4000 1000
+Bob 6000 2000;
+
+param cash := 300;
